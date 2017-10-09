@@ -3,9 +3,18 @@ h1 {
 }
 
 li {
-	color: red;
+	color: #FFF606;
 }
 
+h3 {
+	color: rgba(111,0,255, 0.4);
+}
+
+h2 {
+	color: rgba(111,0,255, 0.7);
+}
+
+
 h4 {
-	color: green;
+	color: rgb(111,0,255);
 }
