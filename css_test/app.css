@@ -1,5 +1,19 @@
+/*body {
+	background: pink;
+}*/
+
+body {
+	background: url(http://images.all-free-download.com/images/graphiclarge/abstract_wave_background_310308.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 h1 {
 	color: purple;
+/*	border-color: red;
+	border-width: 5px; 
+	border-style: solid;*/
+	border: red 5px solid;
 }
 
 li {
@@ -8,6 +22,7 @@ li {
 
 h3 {
 	color: rgba(111,0,255, 0.4);
+	background: #00FFFF;
 }
 
 h2 {
