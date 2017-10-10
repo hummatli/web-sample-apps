@@ -1,14 +1,14 @@
 
 p {
-	font-family: Arial;
+	font-family: Lora;
 }
 
 h1 {
-	font-family: Georgia;
+	font-family: 'Indie Flower', cursive;
 }
 
 h1 {
-	font-size: 100px;
+	font-size: 50px;
 }
 
 p {
@@ -20,7 +20,7 @@ span {
 }
 
 p {
-	font-weight: bold;
+	font-weight: normal;
 }
 
 p {
