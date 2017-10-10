@@ -1,0 +1,35 @@
+td {
+	width: 100px;
+	height: 100px;
+	margin: 0px;
+	padding: 0px;
+}
+
+table {
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+}
+
+/*tr:nth-of-type(2) td {
+	border-top: 1px gray solid;
+	border-bottom: 1px gray solid;
+}
+
+tr td:nth-of-type(2) {
+	border-left: 1px gray solid;
+	border-right: 1px gray solid;
+}*/
+
+
+.horizontal {
+	border-top: 1px gray solid;
+	border-bottom: 1px gray solid;
+}
+
+.vertical {
+	border-left: 1px gray solid;
+	border-right: 1px gray solid;
+}
