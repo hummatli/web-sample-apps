@@ -1,0 +1,26 @@
+ul li {
+    color: red;
+}
+
+ol > li {
+    color: green;
+}
+
+div.parent h2 {
+    color: darkblue;
+}
+
+div.parent div h2 {
+    color: aqua;
+}
+
+div h3 {
+    color: chartreuse
+}
+
+h1, h3, h4, p.holla {
+    color: blueviolet;
+}
+
+
+
